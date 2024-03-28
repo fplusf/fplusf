@@ -1,8 +1,10 @@
 ### $whoami
 
-Based in Georgia 🇬🇪 for now
+Based in Georgia 🇬🇪
 
 Developing in Angular & NestJS and SvelteKit & Supabase.
+I love EdTech and crafting software.
+Hobbies: Traveling, Football and Pingpong
 
 <!--
 **fplusf/fplusf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
