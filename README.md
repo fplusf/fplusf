@@ -1,4 +1,8 @@
-### Hi there 👋
+### $whoami
+
+Based in Georgia 🇬🇪 for now
+
+Developing in Angular & NestJS and SvelteKit & Supabase.
 
 <!--
 **fplusf/fplusf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
