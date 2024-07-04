@@ -1,7 +1,5 @@
 ### $whoami
 
-Based in Georgia 🇬🇪
-
 Developing in Angular & NestJS and SvelteKit & Supabase.
 I love EdTech and crafting software.
 
