@@ -1,9 +1,9 @@
 ### $whoami
 
-Developing in Angular & NestJS and SvelteKit & Supabase.
-I love EdTech and crafting software.
+Developing apps using modern tools like Angular, ReactJS, NestJS, TypeScript, and more.
+I love EdTech and enjoy crafting software.
 
-Hobbies: Traveling, Football and Pingpong
+Hobbies: Traveling, football, and tennis.
 
 <!--
 **fplusf/fplusf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
