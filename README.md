@@ -1,9 +1,6 @@
 ### $whoami
 
-Developing apps using modern tools like Angular, ReactJS, NestJS, TypeScript, and more.
-I love EdTech and enjoy crafting software.
-
-Hobbies: Traveling, football, and tennis.
+🛠️ Building stuff...
 
 <!--
 **fplusf/fplusf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
